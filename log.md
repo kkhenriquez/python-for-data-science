@@ -9,3 +9,7 @@ Week 1 of the course. Introduction to the course. Uses of data science. Basic st
 ### Day 2: 06/12
 
 Week 1 of the course. Breakdown of each step in the data science process. Acquire, Prepare, Analyze, Report, Act.
+
+### Day 3: 06/19
+
+Week 2 of the course. Introduction to python and python data structures.
