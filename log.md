@@ -13,3 +13,7 @@ Week 1 of the course. Breakdown of each step in the data science process. Acquir
 ### Day 3: 06/19
 
 Week 2 of the course. Introduction to python and python data structures.
+
+### Day 4: 06/22
+
+Week 2. Introduction to UNIX and basic commands.
