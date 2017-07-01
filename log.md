@@ -17,3 +17,7 @@ Week 2 of the course. Introduction to python and python data structures.
 ### Day 4: 06/22
 
 Week 2. Introduction to UNIX and basic commands.
+
+### Day 5: 06/30
+
+Week 2. UNIX commands. Pipes and filters, IO redirection.
