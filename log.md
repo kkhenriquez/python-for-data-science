@@ -22,3 +22,6 @@ Week 3. Introduction to Jupyter Notebooks. Run a sample notebook. Code and Markd
 
 ### Day 7: 07/03
 Week 3. Numpy. ndarrays, indexing and boolean indexing.
+
+### Day 8: 07/04
+Week 3. Numpy. sorting, statistics, operations and broadcasting.
