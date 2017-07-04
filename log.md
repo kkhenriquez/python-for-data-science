@@ -19,3 +19,6 @@ Week 2. UNIX commands. Pipes and filters, IO redirection.
 
 ### Day 6: 07/02
 Week 3. Introduction to Jupyter Notebooks. Run a sample notebook. Code and Markdown.
+
+### Day 7: 07/03
+Week 3. Numpy. ndarrays, indexing and boolean indexing.
