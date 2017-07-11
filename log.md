@@ -25,3 +25,6 @@ Week 3. Numpy. ndarrays, indexing and boolean indexing.
 
 ### Day 8: 07/04
 Week 3. Numpy. sorting, statistics, operations and broadcasting.
+
+### Day 9: 07/10
+Week 3. Satellite image processing example.
