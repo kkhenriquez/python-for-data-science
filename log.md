@@ -34,3 +34,7 @@ Week 4. Introduction to pandas. pandas data series and frames. Data manipulation
 
 ### Day 11: 07/23
 Week 4. pandas. Data cleaning, Data visualization, frequent data operations (slice, groupby).
+
+### Day 12: 07/29
+Week 4. pandas. Data merging, String operations (split, replace, extract), Timestamp parsing. Week summary.
+Week 5. Data visualization. Intro, Role of data visualization, key design principles (trust, accesible, elegant)
