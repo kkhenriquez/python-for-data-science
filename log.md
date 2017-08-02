@@ -38,3 +38,6 @@ Week 4. pandas. Data cleaning, Data visualization, frequent data operations (sli
 ### Day 12: 07/29
 Week 4. pandas. Data merging, String operations (split, replace, extract), Timestamp parsing. Week summary.
 Week 5. Data visualization. Intro, Role of data visualization, key design principles (trust, accesible, elegant)
+
+### Day 13: 08/01
+Week 5. Data visualization techniques and practice.
