@@ -31,3 +31,13 @@ Week 3. Satellite image processing example.
 
 ### Day 10: 07/18
 Week 4. Introduction to pandas. pandas data series and frames. Data manipulation with pandas.
+
+### Day 11: 07/23
+Week 4. pandas. Data cleaning, Data visualization, frequent data operations (slice, groupby).
+
+### Day 12: 07/29
+Week 4. pandas. Data merging, String operations (split, replace, extract), Timestamp parsing. Week summary.
+Week 5. Data visualization. Intro, Role of data visualization, key design principles (trust, accesible, elegant)
+
+### Day 13: 08/01
+Week 5. Data visualization techniques and practice.
