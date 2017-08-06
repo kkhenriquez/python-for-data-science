@@ -41,3 +41,7 @@ Week 5. Data visualization. Intro, Role of data visualization, key design princi
 
 ### Day 13: 08/01
 Week 5. Data visualization techniques and practice.
+
+### Day 14: 08/06
+Week 5. Data visualization case studies. Cholera and Napoleon Russia Campaign.
+Week 7. Introduction to machine learning. Categories. Terminology. Intro to scikit-learn.
