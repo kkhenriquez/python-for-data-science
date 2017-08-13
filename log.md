@@ -45,3 +45,6 @@ Week 5. Data visualization techniques and practice.
 ### Day 14: 08/06
 Week 5. Data visualization case studies. Cholera and Napoleon Russia Campaign.
 Week 7. Introduction to machine learning. Categories. Terminology. Intro to scikit-learn.
+
+### Day 15: 08/13
+Week 7. Classification. Building and Applying a classification model. Decision Trees.
