@@ -48,3 +48,6 @@ Week 7. Introduction to machine learning. Categories. Terminology. Intro to scik
 
 ### Day 15: 08/13
 Week 7. Classification. Building and Applying a classification model. Decision Trees.
+
+### Day 16: 08/17
+Week 7. Cluster analysis. k-means.
