@@ -54,3 +54,4 @@ dkms.conf
 # Other
 world-development-indicators/
 *.csv
+*.sqlite

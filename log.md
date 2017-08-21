@@ -51,3 +51,6 @@ Week 7. Classification. Building and Applying a classification model. Decision T
 
 ### Day 16: 08/17
 Week 7. Cluster analysis. k-means.
+
+### Day 17: 08/21
+Week 7. Regression analysis. Linear regression, decision tree regression.
