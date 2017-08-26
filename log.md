@@ -54,3 +54,6 @@ Week 7. Cluster analysis. k-means.
 
 ### Day 17: 08/21
 Week 7. Regression analysis. Linear regression, decision tree regression.
+
+### Day 18: 08/26
+Week 8. Relational data model. Intro to SQL
