@@ -57,3 +57,6 @@ Week 7. Regression analysis. Linear regression, decision tree regression.
 
 ### Day 18: 08/26
 Week 8. Relational data model. Intro to SQL
+
+### Day 19: 08/28
+Week 8. Intro to natural language processing. Bag of words. Plotting frequency of words. Sentiments analysis.
